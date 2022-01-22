@@ -1,1 +1,1 @@
-# RickandMortyAPi
+# Rick and Morty Wiki
